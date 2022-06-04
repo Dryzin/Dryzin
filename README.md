@@ -28,7 +28,7 @@
 </div>
 <br/>
 
-“Tu te tornas eternamente responsável por aquilo que cativas.”
+“Tu te tornas eternamente responsável por aquilo que codar.”
 
 ## Últimos Projetos
 
