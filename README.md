@@ -28,7 +28,7 @@
 </div>
 <br/>
 
-“Tu te tornas eternamente responsável por aquilo que codar.”
+"What I cannot create, I do not understand" -Richard Feynman
 
 ## Últimos Projetos
 
