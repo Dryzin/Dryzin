@@ -32,4 +32,4 @@
 
 ## Últimos Projetos
 
-- Calculadora do Windows (Tkinter in PY)
+- Calculadora com Tkinter em PY
