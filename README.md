@@ -3,7 +3,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endrio-emanuel-201175228/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtMnXtXHHfbzkRFdkMvBCtLCcSktTfPWXSShqBhVpFsTCXrwCDDSpGHWcCxFSWXTJWctrtjG)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/endrio_emanuel/)
 
 ![Dryzin GitHub stats](https://github-readme-stats.vercel.app/api?username=Dryzin&show_icons=true&theme=tokyonight)
 
