@@ -6,6 +6,8 @@
 
 ![Dryzin GitHub stats](https://github-readme-stats.vercel.app/api?username=Dryzin&show_icons=true&theme=tokyonight)
 
+<img aligh='center' src="https://i.picasion.com/pic92/96afd8883afb72975d76d5dc06792a08.gif" width="125" height="125" border="0" alt="https://picasion.com/" />
+
 ## Tecnologias Praticadas no dia a dia
 
 <div style='display: inline_block'><br/>
