@@ -5,8 +5,7 @@
 <a href = "mailto:endrioemanuel11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Dryzin GitHub stats](https://github-readme-stats.vercel.app/api?username=Dryzin&show_icons=true&theme=tokyonight)
-
-<img aligh='center' src="https://i.picasion.com/pic92/96afd8883afb72975d76d5dc06792a08.gif" width="125" height="125" border="0" alt="https://picasion.com/" />
+<img alt="https://picasion.com/ width="125" height="125" border="0" src="https://i.picasion.com/pic92/96afd8883afb72975d76d5dc06792a08.gif"" />
 
 ## Tecnologias Praticadas no dia a dia
 
