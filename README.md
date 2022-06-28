@@ -33,3 +33,5 @@
 
 - Criação de um banco com Tkinter em PY
 - Calculadora com Tkinter em PY
+
+![Snake animation](https://github.com/Dryzin/Dryzin/blob/output/github-contribution-grid-snake.svg)
