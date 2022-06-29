@@ -7,7 +7,7 @@
 
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryzin&layout=compact&langs_count=7&theme=dracula"/>-->
 
-<img align="right" src="https://i.picasion.com/pic92/96afd8883afb72975d76d5dc06792a08.gif" width:125px height:125 alt="https://picasion.com/"/>
+<img align="right" src="https://i.picasion.com/pic92/96afd8883afb72975d76d5dc06792a08.gif" width:125px height:125 alt="Avatar-Perfil"/>
 
 ## Tecnologias Praticadas no dia a dia
 
