@@ -3,8 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endrio-emanuel-201175228/)
 <a href = "mailto:endrioemanuel11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-
 ![Dryzin GitHub stats](https://github-readme-stats.vercel.app/api?username=Dryzin&show_icons=true&theme=tokyonight)
+
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryzin&layout=compact&langs_count=7&theme=dracula"/>-->
 
 <img align="right" src="https://i.picasion.com/pic92/96afd8883afb72975d76d5dc06792a08.gif" width:125px height:125 alt="https://picasion.com/"/>
 
