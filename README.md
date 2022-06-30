@@ -1,12 +1,12 @@
-## Olá! Eu sou o Endrio Emanuel 😄
+## Prazer Dev, chamo-me Endrio Emanuel😁
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endrio-emanuel-201175228/)
 <a href = "mailto:endrioemanuel11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<div align="center">
+<div align="left">
 </br>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Dryzin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryzin&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Dryzin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryzin&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </br>
 <img align="right" src="https://i.picasion.com/pic92/96afd8883afb72975d76d5dc06792a08.gif" width:125px height:125 alt="Avatar-Perfil"/>
