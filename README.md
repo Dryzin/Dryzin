@@ -34,6 +34,7 @@
 
 ## Últimos Projetos
 
+- Projeto de FlexBox , Criação da interface flexível com CSS
 - Criação de um banco com Tkinter em PY
 - Calculadora com Tkinter em PY
 
