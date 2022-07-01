@@ -1,6 +1,7 @@
 ## Prazer Dev, chamo-me Endrio Emanuel😁
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endrio-emanuel-201175228/)
+
 <a href = "mailto:endrioemanuel11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div align="left">
@@ -17,9 +18,8 @@
     <img aligh='center' alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
     <img aligh='center' alt='CSS' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'/>
     <img aligh='center' alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
-
-
 </div>
+
 <br/>
 
 ## Tecnologias De Estudos Atualmente
@@ -30,6 +30,7 @@
     <img aligh='center' alt='SpringBoot' src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white'/>
     <img aligh='center' alt='Java' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'/>
 </div>
+<img align="right" src="https://i.picasion.com/pic92/763675f8bca9323dc52ed3344a329173.gif" width="100" height="173" border="0" alt="Gif Mario"/>
 <br/>
 
 "What I cannot create, I do not understand" -Richard Feynman
