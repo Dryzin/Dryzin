@@ -40,6 +40,6 @@
 - Recriando Página Inicial do Instagram (Petgram)
 - Projeto de FlexBox , Criação da interface flexível com CSS
 - Criação de um banco com Tkinter em PY
-- Calculadora com Tkinter em PY
+- Sistema de sorteio em Desktop
 
 ![Snake animation](https://github.com/Dryzin/Dryzin/blob/output/github-contribution-grid-snake.svg)
