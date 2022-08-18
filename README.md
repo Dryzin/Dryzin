@@ -10,7 +10,8 @@
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryzin&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </br>
-<img align="right" src="https://i.picasion.com/pic92/96afd8883afb72975d76d5dc06792a08.gif" width:125px height:125 alt="Avatar-Perfil"/>
+
+<img align="right" src="https://i.picasion.com/pic92/1ebb6d34c8fcbbe259a5d6306b2934eb.gif" width="150" height="150" alt="Avatar-Perfil"/>
 
 ## Tecnologias Praticadas no dia a dia
 
