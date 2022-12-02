@@ -1,7 +1,4 @@
-## Prazer Dev, chamo-me Endrio Emanuel 🍃
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endrio-emanuel-201175228/)
-<a href = "mailto:endrioemanuel11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+## Prazer Dev, chamo-me Endrio Emanuel 👨‍💻
 
 <div align="left">
 </br>
@@ -9,6 +6,14 @@
   <img height="180em" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryzin&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </br>
+
+## Contato
+
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endrio-emanuel-201175228/)
+<a href = "mailto:endrioemanuel11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<br>
 
 ## Tecnologias Praticadas no dia a dia
 
