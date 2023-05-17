@@ -41,6 +41,7 @@
 
 ## Últimos Projetos
 
+- landing page de Captura (SenacFinance)
 - Recriando Página Inicial do Instagram (Petgram)
 - Projeto de FlexBox , Criação da interface flexível com CSS
 - Criação de um banco com Tkinter em PY
