@@ -3,7 +3,9 @@
 <div align="left">
 </br>
   <img height="180em" width="44%" src="https://streak-stats.demolab.com/?user=Dryzin&theme=dark"/>
-  <img height="180em" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryzin&layout=compact&langs_count=7&theme=dark"/>
+  <br/>
+  <img align="right" src="https://i.picasion.com/pic92/7c2c0ac7ba12796002fd4ca823ebb6da.gif" width="90" height="140" border="0" alt="Gif Mario" />
+  <!--<img height="180em" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryzin&layout=compact&langs_count=7&theme=dark"/>-->
 </div>
 </br>
 
@@ -34,8 +36,6 @@
     <img aligh='center' alt='Angular' src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'/>
 </div>
 
-<img align="right" src="https://i.picasion.com/pic92/7c2c0ac7ba12796002fd4ca823ebb6da.gif" width="90" height="140" border="0" alt="Gif Mario" />
-<br/>
 
 "What I cannot create, I do not understand" -Richard Feynman
 
