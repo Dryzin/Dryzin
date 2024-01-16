@@ -2,7 +2,7 @@
 
 <div align="left">
 </br>
-  <img height="180em" width="44%" src="https://streak-stats.demolab.com/?user=Dryzin&theme=dark"/>
+  <img height="180em" width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dryzin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryzin&layout=compact&langs_count=7&theme=dark"/>
   <img align="bottom" src="https://i.picasion.com/pic92/7c2c0ac7ba12796002fd4ca823ebb6da.gif" width="90" height="140" border="0" alt="Gif Mario" />
 </div>
