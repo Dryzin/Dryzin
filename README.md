@@ -39,10 +39,7 @@
 
 ## 💡 Últimos Projetos
 
-- Landing Page de Captura (SenacFinance)
-- Recriando Página Inicial do Instagram (Petgram)
-- Projeto de FlexBox , Criação da interface flexível com CSS
-- Criação de um banco com Tkinter em PY
-- Sistema de sorteio em Desktop
+- Landing BankBoost
+- Front-end Loja Integrada [Lumafra]
 
 ![Snake animation](https://github.com/Dryzin/Dryzin/blob/output/github-contribution-grid-snake.svg)
